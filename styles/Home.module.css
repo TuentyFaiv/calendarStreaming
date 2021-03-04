@@ -78,7 +78,7 @@
 }
 .footer a:hover {
   color: var(--theme);
-  border-bottom: .1rem solid var(--theme-dark);
+  border-bottom: .1rem solid var(--theme);
 }
 
 @media screen and (min-width: 960px) {
